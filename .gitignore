@@ -1,0 +1,29 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.dbmdl
+*.log
+*.vs/
+
+# Angular
+node_modules/
+dist/
+.angular/
+npm-debug.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# DB
+*.mdf
+*.ldf
+
+# Environment
+.env
+.env.*.local
+ 
